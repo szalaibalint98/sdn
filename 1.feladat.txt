@@ -1,0 +1,1 @@
+Hozz létre SDN-feladat néven egy repository-t a saját github fiókodba és minden elkészült fájlt ide kell feltölteni a megadott néven. 
